@@ -1,1 +1,6 @@
-class Practik
+class Practik{
+main(){
+
+}
+
+}
